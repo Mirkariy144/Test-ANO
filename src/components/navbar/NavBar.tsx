@@ -1,5 +1,4 @@
 import { Box, Button, Card, CardActionArea } from "@mui/material";
-import React from "react";
 
 export function NavBar() {
   return (

@@ -1,5 +1,5 @@
-import { Box, Card, Modal, Typography } from "@mui/material";
-import React, { useContext } from "react";
+import { Card, Modal, Typography } from "@mui/material";
+import { useContext } from "react";
 import { ModalContext } from "../../../common/context/ModalContextProvider";
 import CheckIcon from "@mui/icons-material/Check";
 import CloseIcon from "@mui/icons-material/Close";
